@@ -9,4 +9,4 @@
  * The cough files are then segmented to remove extraneous audio parts using segmentation.py and then each segmented file is concatenated to form a corresponding single wav file. (data_prep.py)
  * The segmented and concatenated wav files are used for MFCC feature extraction. (data_prep.py)
  * The extracted features are then used to train the ANN model. (ANN.ipynb)
- * Model TFlite is generated after training and then added to the Android App to predict on real-time cough recordings. (CovidCough.zip) 
+ * Model TFlite is generated after training and then added to the Android App to predict on real-time cough recordings. (CovidCough.rar) 
